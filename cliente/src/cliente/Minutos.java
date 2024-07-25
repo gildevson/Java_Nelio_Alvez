@@ -16,7 +16,6 @@ public class Minutos {
 				    conta = conta + (minutos - 100) * 2.0;
 		}
 		
-		System.out.printf("Valor da conta = R$ %.2f%n", conta);
 	    scanner.close();
 	}
 
