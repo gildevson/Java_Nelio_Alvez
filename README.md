@@ -2,8 +2,7 @@
 
 ## Descrição
 
-Este curso é 100% compatível com a versão LTS (Long Term Support) atual do Java. Com minha experiência de mais de 20 anos trabalhando e ensinando Java profissionalmente, elaborei exatamente o passo a passo para te levar do zero até o nível avançado de programação em Java! 
-
+Este curso é 100% compatível com a versão LTS (Long Term Support) atual do Java.
 Você vai aprender tudo sobre programação orientada a objetos utilizando Java, desde o básico, com exemplos bem simples e didáticos, e daí vamos gradualmente avançando, até mergulharmos em tópicos avançados.
 
 ## Tópicos de Programação
